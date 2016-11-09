@@ -1,0 +1,11 @@
+com\user\management\service\UserServiceImpl.class
+com\user\management\configuration\CORSFilter.class
+com\user\management\controller\IndexController.class
+com\user\management\model\User.class
+com\user\management\dao\UserManagementDAOImpl.class
+com\user\management\configuration\UserManagementConfiguration.class
+com\user\management\configuration\DBConfig.class
+com\user\management\dao\UserManagementDAO.class
+com\user\management\service\UserService.class
+com\user\management\controller\UserManagementRestController.class
+com\user\management\configuration\UserManagementInitializer.class
